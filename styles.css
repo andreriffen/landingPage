@@ -135,13 +135,13 @@
     }
 
     #idbola1{
-        background-image: linear-gradient(rgb(0, 0, 0.9), rgba(0, 0, 255, 0.2)) ,url("../img/sky1.jpg");
+        background-image: linear-gradient(rgb(0, 0, 0.9), rgba(0, 0, 255, 0.2)) ,url("../sky1.jpg");
     }
     #idbola2{
-        background-image: linear-gradient(rgb(0, 0, 0.9), rgba(0, 0, 255, 0.2)) ,url("../img/sky2.jpg");
+        background-image: linear-gradient(rgb(0, 0, 0.9), rgba(0, 0, 255, 0.2)) ,url("../sky2.jpg");
     }
     #idbola3{
-        background-image: linear-gradient(rgba(255, 51, 0, 0.411), rgba(0, 0, 255, 0.1)) ,url("../img/sky3.jpg");
+        background-image: linear-gradient(rgba(255, 51, 0, 0.411), rgba(0, 0, 255, 0.1)) ,url("../sky3.jpg");
     }
 /* SEÇÃO KEY-SECTOR  */
 /* ------------------ */
@@ -151,7 +151,7 @@
     background: 
         linear-gradient(rgb(0, 0, 0.9),
         rgba(0, 0, 255, 0.2)), 
-        url("../img/sky3.jpg");
+        url("../sky3.jpg");
     background-position: center;
     background-size: cover;
     display: flex;
